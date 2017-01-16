@@ -1,1 +1,1 @@
-Problem: Cancel share Whatsapp persist image thumb on the new share.
+Problem: Cancel image share Whatsapp but persist image thumb on the new share.
