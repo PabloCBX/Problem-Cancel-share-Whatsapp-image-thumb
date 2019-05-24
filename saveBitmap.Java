@@ -1,4 +1,4 @@
-  public void saveBitmap(Bitmap bitmap) {
+  private void saveBitmap(Bitmap bitmap) {
     
         String mydate = java.text.DateFormat.getDateTimeInstance().format(Calendar.getInstance().getTime());
     
